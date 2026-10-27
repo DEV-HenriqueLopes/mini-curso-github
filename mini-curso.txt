@@ -1,2 +1,2 @@
-EVENTO: Semana Academica de Sistemas de Informação
-PARTICIPANTE: Henrique Lopes Santos
+EVENTO:     Semana Academica de Sistemas de Informação
+PARTICIPANTES:   Pablo Rodrigues Cardoso e Henrique Lopes Santos
